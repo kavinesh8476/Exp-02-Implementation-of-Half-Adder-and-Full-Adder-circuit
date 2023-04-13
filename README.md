@@ -60,25 +60,24 @@ assign sum = ((a^b)^c);
 assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
 ```
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
+
+## Output:
+## RTL
 ### HALF ADDER
 ![image](https://user-images.githubusercontent.com/118466561/231657796-13a763a8-ed36-40aa-b079-03bd6fdf225b.png)
 
 ### FULL ADDER
 ![image](https://user-images.githubusercontent.com/118466561/231657759-fa43c64e-31e0-47f0-b083-2c7a1fd6961c.png)
 
-### TIMING DIAGRAM
+## TIMING DIAGRAM
 ### HALF ADDER
 ![image](https://user-images.githubusercontent.com/118466561/231657881-8e6cdf57-aa23-4246-b74b-7a6f9917466f.png)
 
 ### FULL ADDER
 ![image](https://user-images.githubusercontent.com/118466561/231657905-4c96297a-1e9a-4511-afc4-844b9753e74a.png)
 
-### TRUTH TABLE 
+## TRUTH TABLE 
 ### HALF ADDER
 ![image](https://user-images.githubusercontent.com/118466561/231657998-351a49ba-a3d8-4cfb-aad6-d3ccf7789b19.png)
 
