@@ -82,7 +82,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/118466561/231657998-351a49ba-a3d8-4cfb-aad6-d3ccf7789b19.png)
 
 ### FULL ADDER
-![image](https://user-images.githubusercontent.com/118466561/231658688-a9a67ead-9be0-4b6e-860b-7680f4b8b05d.png)
+![tr](https://user-images.githubusercontent.com/118466561/231671463-3a5d90a4-11d0-4b53-a213-99cc78276fb9.jpg)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
